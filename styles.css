@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgb(248, 248, 248);
+    background: rgb(146, 138, 138);
     margin: 0px;
 }
 
@@ -12,7 +12,7 @@ header {
 }
 
 section {
-    background: rgb(24, 114, 36);
+    background: rgb(12, 124, 27);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
